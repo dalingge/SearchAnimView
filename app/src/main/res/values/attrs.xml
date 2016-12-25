@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="searchViewAnim">
+        <attr name="sva_longText" format="string" />
+        <attr name="sva_shortText" format="string" />
+        <attr name="sva_longBackground" format="color"/>
+        <attr name="sva_shortBackground" format="color"/>
+        <attr name="sva_textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
