@@ -10,7 +10,7 @@
 
 ## License 许可证
 
-[![license](https://img.shields.io/github/license/viosey/hexo-theme-material.svg?style=flat-square)](https://github.com/viosey/hexo-theme-material/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/viosey/hexo-theme-material.svg?style=flat-square)](https://github.com/dalingge/SearchAnimView/blob/master/LICENSE.txt)
 
 Open sourced under the GPL v3.0 license.
 
