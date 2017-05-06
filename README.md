@@ -6,7 +6,7 @@
    
 ## 演示
 
-![](https://github.com/dalingge/SearchAnimView/blob/master/screenshots/search_ demo.gif)
+![](https://github.com/dalingge/SearchAnimView/blob/master/screenshots/search.gif)
 
 ## License 许可证
 
